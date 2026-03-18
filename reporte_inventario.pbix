@@ -1,0 +1,10 @@
+#Reporte en Power BI
+
+Se desarrolló un dashboard en Power BI conectado a la base de datos SQL Server para visualizar información de productos y categorías.
+
+Incluye:
+- Visualización de productos por categoría
+- Análisis de datos
+- Uso de modelo relacional
+
+Archivo: reporte_inventario.pbix
