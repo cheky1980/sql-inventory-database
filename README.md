@@ -14,6 +14,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos en S
 * `consultas.sql`: consultas SQL (SELECT, filtros, LIKE, IN)
 * `actualizaciones.sql`: sentencias UPDATE
 * `procedimientos_almacenados.sql`: stored procedures
+* eliminar Stored procedure: DROP
 
 4 Relación de tablas
 
